@@ -1,0 +1,2 @@
+This is a repository containing my modifications to the Mendel Parts Orca V0.3 (www.mendelparts.com) 3D printer.
+All files are licenced under the terms of the GNU GPL V3 and either modeled in OpenSCAD or Alibre Design.
